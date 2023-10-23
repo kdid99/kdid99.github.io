@@ -1,0 +1,1 @@
+import{_ as t,V as a,W as c,X as e,Y as n}from"./framework-53cb48e3.js";const r={},s=e("h1",{id:"陈家琪——从康德到黑格尔",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#陈家琪——从康德到黑格尔","aria-hidden":"true"},"#"),n(" 陈家琪——从康德到黑格尔")],-1),o=[s];function _(d,i){return a(),c("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

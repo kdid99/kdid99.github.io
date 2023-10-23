@@ -1,0 +1,1 @@
+import{_ as t,V as o,W as a,X as e,Y as n}from"./framework-53cb48e3.js";const s={},c=e("h1",{id:"blog",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#blog","aria-hidden":"true"},"#"),n(" BLOG")],-1),r=e("p",null,"日志",-1),_=[c,r];function d(i,l){return o(),a("div",null,_)}const f=t(s,[["render",d],["__file","index.html.vue"]]);export{f as default};
